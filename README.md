@@ -1,29 +1,6 @@
-Mohammed ✅ I can absolutely give you **everything (README + LICENSE + .gitignore + folder structure + badges)** in one clean package so you can copy/paste it into GitHub.
 
-⚠️ **One note (important):**
-Even though you re-uploaded the files, the tool I use to *read* them says they **expired again**, so I can’t extract exact function names line-by-line right now.
-✅ But I *can still give you a fully professional package* that matches your project name/files and works perfectly for GitHub.
-
-If you want the README to include **exact function signatures and real usage output**, upload them again and I’ll produce a 100% code-matched version.
-
----
-
-# ✅ Recommended GitHub Repo Name
-
-### ✅ Repo Name:
-
-**`LSB-Steganography-MATLAB`**
-
-### ✅ Project Title (in README):
 
 **LSB Image Steganography in MATLAB**
-
----
-
-# ✅ FULL PACKAGE (COPY EVERYTHING BELOW)
-
----
-
 ## ✅ 1) `README.md`
 
 ````md
